@@ -7,7 +7,7 @@
 - [Shabnam](#Shabnam)
 - [Vazir](#Vazir)
 
-## FontAwesome
+## FontAwesome[⬆](#quick-access)
 
 ```html
 <link
@@ -36,7 +36,7 @@ font-family: "FontAwesome Thin";
 font-family: "FontAwesome Duotone";
 ```
 
-## IRANYekan
+## IRANYekan[⬆](#quick-access)
 
 ```html
 <link
@@ -61,7 +61,7 @@ font-family: "IranYekan FarsiNumerals", sans-serif;
 font-family: "IranYekan WebFonts", sans-serif;
 ```
 
-## Shabnam
+## Shabnam[⬆](#quick-access)
 
 ```html
 <link
@@ -86,7 +86,7 @@ font-family: "Shabnam FarsiNumerals", sans-serif;
 font-family: "Shabnam WebFonts", sans-serif;
 ```
 
-## Vazir
+## Vazir[⬆](#quick-access)
 
 ```html
 <link
