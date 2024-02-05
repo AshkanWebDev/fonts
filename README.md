@@ -1,8 +1,11 @@
 # fonts
 
-#### CDN
+### Quick Access
 
-Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
+- [FontAwesome](#FontAwesome)
+- [IRANYekan](#IRANYekan)
+- [Shabnam](#Shabnam)
+- [Vazir](#Vazir)
 
 ## FontAwesome
 
