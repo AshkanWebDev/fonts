@@ -14,6 +14,14 @@ FontAwesome:
 />
 ```
 
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/FontAwesome/FontAwesome.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
 In the css code:
 
 ```
@@ -30,6 +38,14 @@ IRANYekan:
 ```html
 <link
   href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/IRANYekan.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/IRANYekan.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -52,9 +68,42 @@ Shabnam:
 />
 ```
 
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Shabnam/Shabnam.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
 In the css code:
 
 ```
 font-family: "Shabnam FarsiNumerals", sans-serif;
 font-family: "Shabnam WebFonts", sans-serif;
+```
+
+Vazir:
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Vazir/Vazir.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Vazir/Vazir.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+In the css code:
+
+```
+font-family: "Vazir FarsiNumerals", sans-serif;
+font-family: "Vazir WebFonts", sans-serif;
 ```
