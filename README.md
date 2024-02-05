@@ -9,6 +9,8 @@
 
 ## FontAwesome[⬆](#quick-access)
 
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
+
 ```html
 <link
   href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/FontAwesome/FontAwesome.css"
@@ -38,6 +40,8 @@ font-family: "FontAwesome Duotone";
 
 ## IRANYekan[⬆](#quick-access)
 
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
+
 ```html
 <link
   href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/IRANYekan.css"
@@ -63,6 +67,8 @@ font-family: "IranYekan WebFonts", sans-serif;
 
 ## Shabnam[⬆](#quick-access)
 
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
+
 ```html
 <link
   href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Shabnam/Shabnam.css"
@@ -87,6 +93,8 @@ font-family: "Shabnam WebFonts", sans-serif;
 ```
 
 ## Vazir[⬆](#quick-access)
+
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
