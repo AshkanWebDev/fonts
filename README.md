@@ -7,6 +7,7 @@
 - [Shabnam](#Shabnam)
 - [Vazir](#Vazir)
 - [Sahel](#Sahel)
+- [Reset CSS](#Reset-CSS)
 
 ## FontAwesome[⬆](#quick-access)
 
@@ -145,4 +146,24 @@ In the css code:
 ```
 font-family: "Sahel FarsiNumerals", sans-serif;
 font-family: "Sahel WebFonts", sans-serif;
+```
+
+## Reset CSS[⬆](#quick-access)
+
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/reset.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/reset.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
 ```
