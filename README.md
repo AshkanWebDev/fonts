@@ -41,3 +41,20 @@ In the css code:
 font-family: "IranYekan FarsiNumerals", sans-serif;
 font-family: "IranYekan WebFonts", sans-serif;
 ```
+
+Shabnam:
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Shabnam/Shabnam.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+In the css code:
+
+```
+font-family: "Shabnam FarsiNumerals", sans-serif;
+font-family: "Shabnam WebFonts", sans-serif;
+```
