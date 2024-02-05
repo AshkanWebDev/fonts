@@ -2,207 +2,207 @@
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 100;
-  src: url("FarsiNumerals/woff2/iranyekanwebthinfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanwebthinfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanwebthinfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanwebthinfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanwebthinfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanwebthinfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 300;
-  src: url("FarsiNumerals/woff2/iranyekanweblightfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanweblightfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanweblightfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanweblightfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanweblightfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanweblightfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 400;
-  src: url("FarsiNumerals/woff2/iranyekanwebregularfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanwebregularfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanwebregularfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanwebregularfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanwebregularfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanwebregularfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 500;
-  src: url("FarsiNumerals/woff2/iranyekanwebmediumfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanwebmediumfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanwebmediumfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanwebmediumfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanwebmediumfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanwebmediumfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 600;
-  src: url("FarsiNumerals/woff2/iranyekanwebboldfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanwebboldfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanwebboldfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanwebboldfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanwebboldfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanwebboldfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 700;
-  src: url("FarsiNumerals/woff2/iranyekanwebextraboldfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanwebextraboldfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanwebextraboldfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanwebextraboldfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanwebextraboldfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanwebextraboldfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 800;
-  src: url("FarsiNumerals/woff2/iranyekanwebblackfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanwebblackfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanwebblackfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanwebblackfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanwebblackfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanwebblackfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 900;
-  src: url("FarsiNumerals/woff2/iranyekanwebextrablackfanum.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff2/iranyekanwebextrablackfanum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/iranyekanwebextrablackfanum.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/woff/iranyekanwebextrablackfanum.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/iranyekanwebextrablackfanum.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/FarsiNumerals/ttf/iranyekanwebextrablackfanum.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 100;
-  src: url("WebFonts/woff2/iranyekanwebthin.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanwebthin.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanwebthin.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanwebthin.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanwebthin.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanwebthin.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 300;
-  src: url("WebFonts/woff2/iranyekanweblight.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanweblight.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanweblight.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanweblight.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanweblight.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanweblight.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 400;
-  src: url("WebFonts/woff2/iranyekanwebregular.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanwebregular.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanwebregular.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanwebregular.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanwebregular.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanwebregular.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 500;
-  src: url("WebFonts/woff2/iranyekanwebmedium.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanwebmedium.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanwebmedium.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanwebmedium.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanwebmedium.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanwebmedium.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 600;
-  src: url("WebFonts/woff2/iranyekanwebbold.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanwebbold.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanwebbold.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanwebbold.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanwebbold.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanwebbold.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 700;
-  src: url("WebFonts/woff2/iranyekanwebextrabold.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanwebextrabold.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanwebextrabold.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanwebextrabold.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanwebextrabold.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanwebextrabold.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 800;
-  src: url("WebFonts/woff2/iranyekanwebblack.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanwebblack.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanwebblack.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanwebblack.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanwebblack.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanwebblack.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 900;
-  src: url("WebFonts/woff2/iranyekanwebextrablack.woff2")
+  src: url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff2/iranyekanwebextrablack.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/iranyekanwebextrablack.woff")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/woff/iranyekanwebextrablack.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/iranyekanwebextrablack.ttf")
+      url("https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/WebFonts/ttf/iranyekanwebextrablack.ttf")
       format("truetype");
 }
