@@ -6,6 +6,7 @@
 - [IRANYekan](#IRANYekan)
 - [Shabnam](#Shabnam)
 - [Vazir](#Vazir)
+- [Sahel](#Sahel)
 
 ## FontAwesome[⬆](#quick-access)
 
@@ -117,4 +118,31 @@ In the css code:
 ```
 font-family: "Vazir FarsiNumerals", sans-serif;
 font-family: "Vazir WebFonts", sans-serif;
+```
+
+## Sahel[⬆](#quick-access)
+
+Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Sahel/Sahel.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Sahel/Sahel.min.css"
+  rel="stylesheet"
+  type="text/css"
+/>
+```
+
+In the css code:
+
+```
+font-family: "Sahel FarsiNumerals", sans-serif;
+font-family: "Sahel WebFonts", sans-serif;
 ```
