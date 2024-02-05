@@ -15,7 +15,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/FontAwesome/FontAwesome.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/FontAwesome/FontAwesome.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -23,7 +23,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/FontAwesome/FontAwesome.min.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/FontAwesome/FontAwesome.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -46,7 +46,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/IRANYekan.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/IRANYekan/IRANYekan.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -54,7 +54,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/IRANYekan/IRANYekan.min.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/IRANYekan/IRANYekan.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -73,7 +73,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Shabnam/Shabnam.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/Shabnam/Shabnam.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -81,7 +81,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Shabnam/Shabnam.min.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/Shabnam/Shabnam.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -100,7 +100,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Vazir/Vazir.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/Vazir/Vazir.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -108,7 +108,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Vazir/Vazir.min.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/Vazir/Vazir.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -127,7 +127,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Sahel/Sahel.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/Sahel/Sahel.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -135,7 +135,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/Sahel/Sahel.min.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/Sahel/Sahel.min.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -154,7 +154,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/reset.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/reset.css"
   rel="stylesheet"
   type="text/css"
 />
@@ -162,7 +162,7 @@ Link fonts from the [jsDelivr](https://www.jsdelivr.com/) CDN:
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts/dist/reset.min.css"
+  href="https://cdn.jsdelivr.net/gh/moalgholi/fonts@main/dist/reset.min.css"
   rel="stylesheet"
   type="text/css"
 />
