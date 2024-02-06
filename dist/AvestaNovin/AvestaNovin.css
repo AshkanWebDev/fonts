@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "AvestaNovin";
+  font-style: normal;
+  src: url("AvestaNovin.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("AvestaNovin.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("AvestaNovin.ttf")
+      format("truetype");
+}
