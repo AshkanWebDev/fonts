@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Nastaliq";
+  font-style: normal;
+  src: url("IranNastaliq.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("IranNastaliq.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("IranNastaliq.ttf")
+      format("truetype");
+}
