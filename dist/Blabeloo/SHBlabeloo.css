@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Blabeloo";
+  font-style: normal;
+  src: url("sh-blabeloo.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+      url("sh-blabeloo.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("sh-blabeloo.ttf")
+      format("truetype");
+}
