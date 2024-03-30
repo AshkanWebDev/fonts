@@ -35,10 +35,25 @@ In the css code:
 
 ```
 font-family: "FontAwesome Brands";
+```
+
+```
 font-family: "FontAwesome Solid";
+```
+
+```
 font-family: "FontAwesome Regular";
+```
+
+```
 font-family: "FontAwesome Light";
+```
+
+```
 font-family: "FontAwesome Thin";
+```
+
+```
 font-family: "FontAwesome Duotone";
 ```
 
@@ -66,6 +81,9 @@ In the css code:
 
 ```
 font-family: "IranYekan FarsiNumerals", sans-serif;
+```
+
+```
 font-family: "IranYekan WebFonts", sans-serif;
 ```
 
@@ -93,6 +111,9 @@ In the css code:
 
 ```
 font-family: "Shabnam FarsiNumerals", sans-serif;
+```
+
+```
 font-family: "Shabnam WebFonts", sans-serif;
 ```
 
@@ -120,6 +141,9 @@ In the css code:
 
 ```
 font-family: "Vazir FarsiNumerals", sans-serif;
+```
+
+```
 font-family: "Vazir WebFonts", sans-serif;
 ```
 
@@ -147,6 +171,9 @@ In the css code:
 
 ```
 font-family: "Sahel FarsiNumerals", sans-serif;
+```
+
+```
 font-family: "Sahel WebFonts", sans-serif;
 ```
 
@@ -174,6 +201,9 @@ In the css code:
 
 ```
 font-family: "Estedad FarsiNumerals", sans-serif;
+```
+
+```
 font-family: "Estedad WebFonts", sans-serif;
 ```
 
