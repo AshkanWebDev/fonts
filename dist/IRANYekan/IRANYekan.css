@@ -2,66 +2,51 @@
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 100;
-  src: url("FarsiNumerals/woff2/IRANYekanWebThinFaNum.woff2")
-      format("woff2"),
+  src: url("FarsiNumerals/woff2/IRANYekanWebThinFaNum.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebThinFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebThinFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/IRANYekanWebThinFaNum.ttf")
-      format("truetype");
+      url("FarsiNumerals/ttf/IRANYekanWebThinFaNum.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 300;
-  src: url("FarsiNumerals/woff2/IRANYekanWebLightFaNum.woff2")
-      format("woff2"),
+  src: url("FarsiNumerals/woff2/IRANYekanWebLightFaNum.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebLightFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebLightFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/IRANYekanWebLightFaNum.ttf")
-      format("truetype");
+      url("FarsiNumerals/ttf/IRANYekanWebLightFaNum.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 400;
-  src: url("FarsiNumerals/woff2/IRANYekanWebRegularFaNum.woff2")
-      format("woff2"),
+  src: url("FarsiNumerals/woff2/IRANYekanWebRegularFaNum.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebRegularFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebRegularFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/IRANYekanWebRegularFaNum.ttf")
-      format("truetype");
+      url("FarsiNumerals/ttf/IRANYekanWebRegularFaNum.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 500;
-  src: url("FarsiNumerals/woff2/IRANYekanWebMediumFaNum.woff2")
-      format("woff2"),
+  src: url("FarsiNumerals/woff2/IRANYekanWebMediumFaNum.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebMediumFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebMediumFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/IRANYekanWebMediumFaNum.ttf")
-      format("truetype");
+      url("FarsiNumerals/ttf/IRANYekanWebMediumFaNum.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 600;
-  src: url("FarsiNumerals/woff2/IRANYekanWebBoldFaNum.woff2")
-      format("woff2"),
+  src: url("FarsiNumerals/woff2/IRANYekanWebBoldFaNum.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebBoldFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebBoldFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/IRANYekanWebBoldFaNum.ttf")
-      format("truetype");
+      url("FarsiNumerals/ttf/IRANYekanWebBoldFaNum.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
@@ -70,24 +55,19 @@
   src: url("FarsiNumerals/woff2/IRANYekanWebExtraBoldFaNum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebExtraBoldFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebExtraBoldFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/IRANYekanWebExtraBoldFaNum.ttf")
-      format("truetype");
+      url("FarsiNumerals/ttf/IRANYekanWebExtraBoldFaNum.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
   font-style: normal;
   font-weight: 800;
-  src: url("FarsiNumerals/woff2/IRANYekanWebBlackFaNum.woff2")
-      format("woff2"),
+  src: url("FarsiNumerals/woff2/IRANYekanWebBlackFaNum.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebBlackFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebBlackFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("FarsiNumerals/ttf/IRANYekanWebBlackFaNum.ttf")
-      format("truetype");
+      url("FarsiNumerals/ttf/IRANYekanWebBlackFaNum.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan FarsiNumerals";
@@ -96,8 +76,7 @@
   src: url("FarsiNumerals/woff2/IRANYekanWebExtraBlackFaNum.woff2")
       format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("FarsiNumerals/woff/IRANYekanWebExtraBlackFaNum.woff")
-      format("woff"),
+      url("FarsiNumerals/woff/IRANYekanWebExtraBlackFaNum.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
       url("FarsiNumerals/ttf/IRANYekanWebExtraBlackFaNum.ttf")
       format("truetype");
@@ -106,103 +85,79 @@
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 100;
-  src: url("WebFonts/woff2/IRANYekanWebThin.woff2")
-      format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebThin.woff")
+  src: url("WebFonts/woff2/IRANYekanWebThin.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("WebFonts/woff/IRANYekanWebThin.woff")
       format("woff"),
-    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebThin.ttf")
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("WebFonts/ttf/IRANYekanWebThin.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 300;
-  src: url("WebFonts/woff2/IRANYekanWebLight.woff2")
-      format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebLight.woff")
+  src: url("WebFonts/woff2/IRANYekanWebLight.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("WebFonts/woff/IRANYekanWebLight.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebLight.ttf")
-      format("truetype");
+      url("WebFonts/ttf/IRANYekanWebLight.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 400;
-  src: url("WebFonts/woff2/IRANYekanWebRegular.woff2")
-      format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebRegular.woff")
+  src: url("WebFonts/woff2/IRANYekanWebRegular.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("WebFonts/woff/IRANYekanWebRegular.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebRegular.ttf")
-      format("truetype");
+      url("WebFonts/ttf/IRANYekanWebRegular.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 500;
-  src: url("WebFonts/woff2/IRANYekanWebMedium.woff2")
-      format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebMedium.woff")
+  src: url("WebFonts/woff2/IRANYekanWebMedium.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("WebFonts/woff/IRANYekanWebMedium.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebMedium.ttf")
-      format("truetype");
+      url("WebFonts/ttf/IRANYekanWebMedium.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 600;
-  src: url("WebFonts/woff2/IRANYekanWebBold.woff2")
-      format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebBold.woff")
+  src: url("WebFonts/woff2/IRANYekanWebBold.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("WebFonts/woff/IRANYekanWebBold.woff")
       format("woff"),
-    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebBold.ttf")
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("WebFonts/ttf/IRANYekanWebBold.ttf")
       format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 700;
-  src: url("WebFonts/woff2/IRANYekanWebExtraBold.woff2")
-      format("woff2"),
+  src: url("WebFonts/woff2/IRANYekanWebExtraBold.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebExtraBold.woff")
-      format("woff"),
+      url("WebFonts/woff/IRANYekanWebExtraBold.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebExtraBold.ttf")
-      format("truetype");
+      url("WebFonts/ttf/IRANYekanWebExtraBold.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 800;
-  src: url("WebFonts/woff2/IRANYekanWebBlack.woff2")
-      format("woff2"),
-    /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebBlack.woff")
+  src: url("WebFonts/woff2/IRANYekanWebBlack.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("WebFonts/woff/IRANYekanWebBlack.woff")
       format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebBlack.ttf")
-      format("truetype");
+      url("WebFonts/ttf/IRANYekanWebBlack.ttf") format("truetype");
 }
 @font-face {
   font-family: "IranYekan WebFonts";
   font-style: normal;
   font-weight: 900;
-  src: url("WebFonts/woff2/IRANYekanWebExtraBlack.woff2")
-      format("woff2"),
+  src: url("WebFonts/woff2/IRANYekanWebExtraBlack.woff2") format("woff2"),
     /* FF39+,Chrome36+, Opera24+*/
-      url("WebFonts/woff/IRANYekanWebExtraBlack.woff")
-      format("woff"),
+      url("WebFonts/woff/IRANYekanWebExtraBlack.woff") format("woff"),
     /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-      url("WebFonts/ttf/IRANYekanWebExtraBlack.ttf")
-      format("truetype");
+      url("WebFonts/ttf/IRANYekanWebExtraBlack.ttf") format("truetype");
 }
